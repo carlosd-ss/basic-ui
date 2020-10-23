@@ -1,8 +1,11 @@
-<img src="https://github.com/carlosd-ss/wolfbest/blob/master/img/Wolfbest2.svg" widht="200" height="200"> 
+<img src="https://github.com/carlosd-ss/basic-ui/blob/master/.github/basic.png" widht="200" height="200"> 
 
-![HTML](https://img.shields.io/badge/html-%20-orange)
-![CSS](https://img.shields.io/badge/css-%20-blue)
 
+
+
+![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=HTML5&labelColor=%23444444)
+![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=CSS3&logoColor=blue&labelColor=%23444444)
+![Javascript](https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E?style=for-the-badge&logo=JavaScript&labelColor=%23444444)
 
 
 
