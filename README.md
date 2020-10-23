@@ -1,10 +1,11 @@
 <img src="https://github.com/carlosd-ss/basic-ui/blob/master/.github/basic-ui.svg" widht="200" height="200"> 
 
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=HTML5&labelColor=%23444444)
-![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=CSS3&logoColor=blue&labelColor=%23444444)
+![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=CSS3&logoColor=%231572B6&labelColor=%23444444)
 ![SASS](https://img.shields.io/badge/SASS-%23CC6699?style=for-the-badge&logo=Sass&labelColor=%23444444)
+![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-%23563D7C?style=for-the-badge&logo=Bootstrap&logoColor=%23563D7C&labelColor=%23444444)
 ![Javascript](https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E?style=for-the-badge&logo=JavaScript&labelColor=%23444444)
-
+![JQUERY](https://img.shields.io/badge/JQUERY-%230769AD?style=for-the-badge&logo=JQuery&logoColor=%230769AD&labelColor=%23444444)
 
 
 ## :books: Introduction
