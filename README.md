@@ -24,10 +24,6 @@
  
  RUN index.html
 ```
-
-# Wild Animals
-
-
 <img src="https://github.com/carlosd-ss/wild-animals/blob/master/.github/wild.png" widht="400"> 
 
 
