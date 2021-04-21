@@ -31,7 +31,3 @@
 <img src="https://github.com/carlosd-ss/wild-animals/blob/master/.github/wild.png" widht="400"> 
 
 
-
-## Related projects
-
-[:briefcase: carlosd-ss.github.io](https://github.com/carlosd-ss/carlosd-ss.github.io)
